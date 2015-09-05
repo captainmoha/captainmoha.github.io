@@ -1,2 +1,3 @@
 # captainmoha.github.io
-Personal Website.
+Personal Reponsive Website.
+[captainmoha.github.io]: https://captainmoha.github.io

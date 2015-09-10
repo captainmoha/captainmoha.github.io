@@ -12,6 +12,7 @@ $(document).ready(function() {
             var $target = $(this.hash);
             console.log("$target = $(this.hash)" + $target);
             $target = $target.length && $target || $('[name=' + this.hash.slice(1) + ']');
+            console.log(typeof($target) + " $target " + $target);
             if ($target.length) {
                 var targetOffset = $target.offset().top;
                 $('html,body')

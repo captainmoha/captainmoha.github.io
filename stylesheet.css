@@ -12,7 +12,7 @@
 	text-shadow: 0 0 20px #fff;
 }
 .jumbotron {
-	background: url("https://goo.gl/aUafPz") no-repeat center center fixed;
+	background: url("img/dragon.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -71,7 +71,7 @@
 	width: 20rem;
 }
 .projects {
-	background: url("https://goo.gl/YvMjNz") no-repeat center center fixed;
+	background: url("img/horsehead.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
